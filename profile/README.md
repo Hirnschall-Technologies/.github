@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### [Find more information on our Blog](https://blog.hirnschall.net)
 <!--
 
 **Here are some ideas to get you started:**
